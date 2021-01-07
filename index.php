@@ -38,6 +38,7 @@ Description: Lorem Ipsum is simply dummy text of the printing and typesetting in
     <link href="<?php echo base_url('home/xit_load_files/css/swiper.css'); ?>" rel="stylesheet">
 	<link href="<?php echo base_url('home/xit_load_files/css/magnific-popup.css'); ?>" rel="stylesheet">
 	<link href="<?php echo base_url('home/xit_load_files/css/styles.css'); ?>" rel="stylesheet">
+	<link href="<?php echo base_url('home/xit_load_files/css/markaider_custom.css'); ?>" rel="stylesheet">
 	
 	<!-- Favicon  -->
     <link rel="shortcut icon" href="<?php echo base_url();?>assets/img/favicon.png">
@@ -206,7 +207,7 @@ Description: Lorem Ipsum is simply dummy text of the printing and typesetting in
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>Business Growth Services</h2>
+                    <h2>Business <span class="growth-heading"> Growth </span> Services</h2>
                     <p class="p-heading p-large">We serve small and medium sized companies in all tech related industries with high quality growth services which are presented below</p>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
