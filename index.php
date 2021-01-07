@@ -1,10 +1,10 @@
 <?php
 /*
-Theme Name: Demo Theme 
-Unique Name: Demo Theme
-Theme URI: https://xerochat.com
-Author: Xerone IT
-Author URI: http://xeroneit.net
+Theme Name: Markaider Theme 
+Unique Name: Markaiader CUSTOM Theme
+Theme URI: https:softaid.com.au
+Author: Abid Hasan
+Author URI: http://abidhasan.me
 Version: 1.0
 Description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
 */
